@@ -26,8 +26,8 @@
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/furkan1x337/new-code-scanner.git
-cd new-code-scanner
+git clone https://github.com/furkan1x337/NewCodeScanner.git
+cd NewCodeScanner
 python3 scanner.py
 ```
 
